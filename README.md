@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @johnsteve108
+👋 Hi, I’m @johnsteve108
 I'm an undergraduate student of Korea Univ. , department of Artificial Intelligence.
+
 I'm interested in 
 - A.I, especially computer vision with D.L.
 - Reinforcement Learning with Open A.I.
