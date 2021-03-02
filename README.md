@@ -6,7 +6,7 @@ I'm interested in
 - Reinforcement Learning with Open A.I.
 - Protocol Economy, Share Economy Modeling to 'Zero Marginal Society'.
 - FrontEnd, BackEnd Enginnering with React.js, React Native, Javascript, Node.js, SQL.
-- Service Develop and Design, launching at App Store and Play Store with Cross Platform.
+- Service Develop and Design, launching at the App Store and the Play Store with Cross Platform.
 
 
 <!---
