@@ -6,7 +6,7 @@ I'm interested in
 - Reinforcement Learning with Open A.I.
 - Protocol Economy, Share Economy Modeling to 'Zero Marginal Society'.
 - FrontEnd, BackEnd Enginnering with React.js, React Native, Javascript, Node.js, SQL.
-- Service Design and Launching at iOS Store and Android Store.
+- Service Design, Development and Launching at iOS Store and Android Store.
 
 <!---
 johnsteve108/johnsteve108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
