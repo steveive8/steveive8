@@ -16,12 +16,15 @@ I'm interested in
 
 Thanks 😁
 
+
+
+
 <!---
 johnsteve108/johnsteve108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&langs_count=8&theme=dark)](https://github.com/johnsteve108/github-readme-stats)
+
+![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=dark)
 
