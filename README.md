@@ -22,3 +22,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact)](https://github.com/johnsteve108/github-readme-stats)
+
