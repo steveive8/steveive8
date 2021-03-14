@@ -24,6 +24,6 @@ johnsteve108/johnsteve108 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact&langs_count=8&theme=solarized-light )](https://github.com/johnsteve108/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact&langs_count=8&theme=radical)](https://github.com/johnsteve108/github-readme-stats)
 
-![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=solarized-light )
+![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=radical)
