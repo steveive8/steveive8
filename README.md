@@ -8,11 +8,11 @@ https://johnsteve108.github.io/JohnLeo-Space
 I'm an undergraduate student of Korea Univ. , department of Artificial Intelligence.
 
 I'm interested in 
-- A.I, especially computer vision with D.L.
-- Reinforcement Learning with Open A.I.
-- Protocol Economy, Share Economy Modeling to 'Zero Marginal Society'.
-- FrontEnd, BackEnd Enginnering with React.js, React Native, Javascript, Node.js, SQL.
-- Service Develop and Design, launching at the App Store and the Play Store with Cross Platform.
+- DeepLearning, especially fields of vision.
+- Reinforcement Learning, especially with Gym of Open A.I.
+- Protocol Economy, Share Economy Modeling to 'Zero Marginal Society' with Blockchain.
+- FullStack Engineering of FrontEnd and BackEnd, mostly used with React.js, React Native, Javascript, Node.js, SQL.
+- Service Develop and Design, launching Apps based on Cross Platform.
 
 Thanks 😁
 
@@ -24,6 +24,6 @@ johnsteve108/johnsteve108 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact&langs_count=8&theme=radical)](https://github.com/johnsteve108/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact&langs_count=8&theme=algolia)](https://github.com/johnsteve108/github-readme-stats)
 
-![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=radical)
+![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=algolia)
