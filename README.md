@@ -1,7 +1,8 @@
 # Welcome to John Leo's Space
 
-![johnleo](https://github.com/johnsteve108/JohnLeo-Space/blob/main/src/imgs/johnleologo.png?raw=true)
 Introduction homepage of John Leo. You can find my projects, researches and philosophy etc.
+
+<img src="https://github.com/johnsteve108/JohnLeo-Space/blob/main/src/imgs/johnleologo.png?raw=true" height="100px" />
 
 https://johnsteve108.github.io/JohnLeo-Space
 
@@ -25,6 +26,5 @@ johnsteve108/johnsteve108 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![JohnLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact&langs_count=8&theme=algolia)](https://github.com/johnsteve108/github-readme-stats)
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=algolia" height="150px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact&langs_count=8&theme=algolia" height="150px" />
