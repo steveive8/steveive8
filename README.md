@@ -1,10 +1,10 @@
 # Welcome to John Leo's Space
 
-<img src="https://github.com/johnsteve108/JohnLeo-Space/blob/main/src/imgs/johnleologo.png?raw=true" height="100px" />
-
 Introduction homepage of John Leo. You can find my projects, researches and philosophy etc.
 
 https://johnsteve108.github.io/JohnLeo-Space
+
+<img src="https://github.com/johnsteve108/JohnLeo-Space/blob/main/src/imgs/johnleologo.png?raw=true" height="100px" />
 
 👋 Hi, I’m @johnsteve108
 I'm an undergraduate student of Korea Univ. , department of Artificial Intelligence.
