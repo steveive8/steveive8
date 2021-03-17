@@ -1,6 +1,6 @@
 # Welcome to John Leo's Space
 
-![johnleo](https://github.com/johnsteve108/JohnLeo-Space/src/images/johnleologo.png)
+![johnleo](https://github.com/johnsteve108/JohnLeo-Space/blob/main/src/imgs/johnleologo.png?raw=true)
 Introduction homepage of John Leo. You can find my projects, researches and philosophy etc.
 
 https://johnsteve108.github.io/JohnLeo-Space
