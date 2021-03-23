@@ -10,11 +10,11 @@ https://johnsteve108.github.io/JohnLeo-Space
 I'm an undergraduate student of Korea Univ. , department of Artificial Intelligence.
 
 I'm interested in 
-- DeepLearning, especially fields of vision.
-- Reinforcement Learning, especially with Gym of Open A.I.
+- Adopting GAN(Generative Adversarial Network) to Art, Global Economy, and Human Cognitive.
+- Realtime Object Detection and developing CNN(Convolutional Neural Network) to the best capability.
+- Self training Gym Environment with combining GAN and Reinforcement Learning.
 - Protocol Economy, Share Economy Modeling to 'Zero Marginal Society' with Blockchain.
-- FullStack Engineering of FrontEnd and BackEnd, mostly used with React.js, React Native, Javascript, Node.js, SQL.
-- Service Develop and Design, launching Apps based on Cross Platform.
+- Service Develop and Design, FullStack Engineering with React.js, React Native, Javascript, Node.js, SQL.
 
 Thanks 😁
 
