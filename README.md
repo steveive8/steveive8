@@ -4,7 +4,7 @@ Introduction homepage of John Leo. You can find my projects, researches and phil
 
 https://johnsteve108.github.io/JohnLeo-Space
 
-<img src="https://github.com/johnsteve108/johnsteve108/blob/main/johnleologoblue.png" height="100px" />
+<img src="https://raw.githubusercontent.com/johnsteve108/johnsteve108/main/johnleologoblue.png" height="90px" />
 
 👋 Hi, I’m @johnsteve108
 I'm an undergraduate student of Korea Univ. , department of Artificial Intelligence.
