@@ -1,12 +1,12 @@
-# Welcome to John Leo's Space
+# Welcome to Steve's Space
 
 Introduction homepage of John Leo. You can find my projects, researches and philosophy etc.
 
-https://johnsteve108.github.io/JohnLeo-Space
+https://steveive108.github.io/JohnLeo-Space
 
 <img src="https://raw.githubusercontent.com/johnsteve108/johnsteve108/main/johnleologoblue.png" height="100px" />
 
-👋 Hi, I’m @johnsteve108
+👋 Hi, I’m @steveive108
 I'm an undergraduate student of Korea Univ. , department of Artificial Intelligence.
 
 I'm interested in 
