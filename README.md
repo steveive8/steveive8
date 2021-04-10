@@ -26,5 +26,5 @@ johnsteve108/johnsteve108 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=johnsteve108&show_icons=true&theme=algolia" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnsteve108&layout=compact&langs_count=8&theme=algolia" height="150px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=steveive108&show_icons=true&theme=algolia" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveive108&layout=compact&langs_count=8&theme=algolia" height="150px" />
