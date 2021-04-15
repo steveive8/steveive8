@@ -2,7 +2,7 @@
 
 Introduction homepage of John Leo. You can find my projects, researches and philosophy etc.
 
-https://steveive108.github.io/JohnLeo-Space
+https://steveive108.github.io/steveivespace
 
 <img src="https://raw.githubusercontent.com/johnsteve108/johnsteve108/main/johnleologoblue.png" height="100px" />
 
