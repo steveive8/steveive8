@@ -1,6 +1,6 @@
 # Welcome to Steve's Space
 
-Introduction homepage of John Leo. You can find my projects, researches and philosophy etc.
+Introduction homepage of Steve Ive. You can find my projects, researches and philosophy etc.
 
 https://steveive108.github.io/steveivespace
 
