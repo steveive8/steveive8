@@ -7,7 +7,7 @@ https://steveive108.github.io/steveivespace
 <img src="https://raw.githubusercontent.com/johnsteve108/johnsteve108/main/johnleologoblue.png" height="100px" />
 
 👋 Hi, I’m @steveive108
-I'm an undergraduate student of Korea Univ. , department of Artificial Intelligence.
+I'm an undergraduate student of Korea Univ. , majoring at Artificial Intelligence.
 
 I'm interested in 
 - Adopting GAN(Generative Adversarial Network) to Art, Global Economy, and Human Cognitive.
