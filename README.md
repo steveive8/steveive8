@@ -4,7 +4,7 @@ Introduction homepage of Steve Ive. You can find my projects, researches and phi
 
 https://steveive108.github.io/steveivespace
 
-<img src="https://raw.githubusercontent.com/steveive108/steveive108/main/steveive.png" height="91px" />
+<img src="https://raw.githubusercontent.com/steveive108/steveive108/main/steveive.png" height="110px" />
 
 👋 Hi, I’m @steveive108
 I'm an undergraduate student of Korea Univ. , majoring at Artificial Intelligence.
