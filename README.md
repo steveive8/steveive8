@@ -5,10 +5,10 @@ Introduction homepage of Steve Ive. You can find my projects, researches and phi
 https://steveive108.github.io/steveivespace
 
 <!---
-<img src="https://raw.githubusercontent.com/steveive108/steveive108/main/steveive.png" height="110px" />
+<img src="https://raw.githubusercontent.com/steveive8/steveive8/main/steveive.png" height="110px" />
 --->
 
-👋 Hi, I’m @steveive108
+👋 Hi, I’m @steveive8
 I'm an undergraduate student of Korea Univ. , majoring at Artificial Intelligence.
 
 I'm interested in 
@@ -28,5 +28,5 @@ johnsteve108/johnsteve108 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=steveive108&show_icons=true&theme=algolia" height="150px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveive108&layout=compact&langs_count=8&theme=algolia" height="150px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=steveive8&show_icons=true&theme=algolia" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveive8&layout=compact&langs_count=8&theme=algolia" height="150px" />
