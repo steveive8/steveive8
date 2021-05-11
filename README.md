@@ -9,7 +9,7 @@ https://steveive8.github.io/steveivespace
 --->
 
 👋 Hi, I’m @steveive8
-I'm an undergraduate student of Korea Univ. , majoring at Artificial Intelligence.
+I'm an undergraduate student of Korea Univ. , majoring at MIS, Artificial Intelligence.
 
 I'm interested in 
 - Protocol Economy, Share Economy Modeling to 'Zero Marginal Society' with Blockchain.
