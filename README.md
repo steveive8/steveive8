@@ -15,7 +15,7 @@ I'm developing and researching at
 - Developing the state of art CNN model for object detection.
 - Predicting and Generating social phenomenon with GAN and RNN.
 - Geo based O2O Servive Development with Decentralized Protocol using Blockchain.
-- End to End service development as a fullStack engineer of frontEnd and backEnd.
+- End to End service development as a fullStack engineer of FrontEnd and BackEnd.
 
 Thanks 😁
 
