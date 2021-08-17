@@ -1,4 +1,4 @@
-# Welcome to Steve's Space
+# Welcome to Steve Ive's Space
 
 Introduction homepage of Steve Ive. You can find my projects, researches and philosophy etc.
 
