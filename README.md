@@ -11,12 +11,11 @@ https://steveive8.github.io
 👋 Hi, I’m @steveive8
 I'm an undergraduate student of Korea Univ. , majoring at Artificial Intelligence.
 
-I'm interested in 
-- Adopting GAN(Generative Adversarial Network) to Art, Global Economy, and Human Cognitive.
-- Protocol Economy, Share Economy Modeling to 'Zero Marginal Society' with Blockchain.
-- Realtime Object Detection and developing CNN(Convolutional Neural Network) to the best capability.
-- Self training Gym Environment with combining GAN and Reinforcement Learning.
-- Service Develop and Design, FullStack Engineering with React.js, React Native, Javascript, Node.js, SQL.
+I'm developing and researching at 
+- Developing the state of art CNN model for object detection.
+- Predicting and Generating social phenomenon with GAN and RNN.
+- Geo based O2O Servive Development with Decentralized Protocol using Blockchain.
+- End to End service development as fullStack engineer of frontEnd and backEnd.
 
 Thanks 😁
 
