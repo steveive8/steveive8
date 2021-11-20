@@ -12,10 +12,11 @@ https://steveive8.github.io
 I'm an undergraduate student of Korea Univ. , majoring at Artificial Intelligence.
 
 I'm developing and researching at 
-- Developing the state of art CNN model for object detection.
+- Mixed Reality based on Computer Vision
+- Object Detection / Motion Estimation with Deep Learning
 - Predicting and Generating social phenomenon with GAN and RNN.
-- Geo based O2O Servive Development with Decentralized Protocol using Blockchain.
-- End to End service development as a FullStack engineer at FrontEnd and BackEnd.
+- Online to Reality SNS Platform of Decentralized Protocol using Blockchain.
+- End to End application development as a FullStack Engineer
 
 Thanks 😁
 
